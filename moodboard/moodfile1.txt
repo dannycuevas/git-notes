@@ -1,1 +1,3 @@
 -some text
+
+-some other text to be read for git diff

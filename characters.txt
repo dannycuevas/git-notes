@@ -7,3 +7,4 @@ Extra characters
 -daniel
 -midori
 -bjork
+-valkiria
